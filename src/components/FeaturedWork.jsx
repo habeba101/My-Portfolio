@@ -29,7 +29,7 @@ function FeaturedWork() {
             </p>
             <a
               href="https://ajer-indol.vercel.app/"
-              className="btn bg-Primary rounded-3xl  shadow-none border-0"
+              className="btn  text-Primary-1 bg-Primary rounded-3xl  shadow-none border-0"
             >
               Live
             </a>
@@ -53,9 +53,9 @@ function FeaturedWork() {
             </p>
             <a
               href="https://github.com/habeba101/InsightPulse-Blog-React"
-              className="btn bg-Primary rounded-3xl  shadow-none border-0"
+              className="btn text-Primary-1 bg-Primary rounded-3xl  shadow-none border-0"
             >
-              Github
+              GitHub
             </a>
           </div>
         </div>
@@ -77,9 +77,9 @@ function FeaturedWork() {
           </p>
           <a
             href="https://github.com/habeba101/Social-Agent-Gen-AI"
-            className="btn bg-Primary rounded-3xl  shadow-none border-0"
+            className="btn text-Primary-1 bg-Primary rounded-3xl  shadow-none border-0"
           >
-            Github
+            GitHub
           </a>
         </div>
       </div>

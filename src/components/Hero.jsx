@@ -41,7 +41,7 @@ function Content() {
             <a
               href="/HabebaAhmed.pdf"
               download="HabebaAhmed.pdf"
-              className="btn rounded-3xl hover:bg-Primary-1 hover:text-white"
+              className="btn bg-white shadow-none border-0 text-black rounded-3xl hover:bg-Primary-1 hover:text-white"
             >
               download CV{" "}
               <svg
