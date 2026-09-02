@@ -1,0 +1,38 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+:root {
+  --font-syne: "Syne", sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+  --font-hanken: "Hanken Grotesk", sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--font-syne);
+}
+
+body {
+  font-family: var(--font-hanken);
+  background-color: var(--color-main);
+}
+
+code,
+pre,
+li,
+button {
+  font-family: var(--font-mono);
+}
+@theme {
+  --color-main: #19151b;
+  --color-main-1: #1c1920;
+  --color-Primary: #b695f0;
+  --color-Primary-1: #452579;
+  --color-Primary-2: #d4bbff;
+  --color-Secondary: #f4a6d7;
+  --color-Secondary-1: #531a43;
+  --color-tertiary: #e6c878;
+  --color-Neutral: #7a757d;
+  --color-gray-1000: #2c292f;
+}
