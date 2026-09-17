@@ -1,5 +1,6 @@
 import "./App.css";
 import About from "./components/About";
+import BackToTop from "./components/BackToTop";
 import Contact from "./components/Contact";
 import Education from "./components/Education";
 import Experience from "./components/Experience";
@@ -21,6 +22,7 @@ function App() {
       <Education />
       <Contact />
       <Footer />
+      <BackToTop />
     </>
   );
 }

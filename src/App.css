@@ -12,7 +12,12 @@ h2,
 h3 {
   font-family: var(--font-syne);
 }
-
+html {
+  scroll-behavior: smooth;
+}
+section {
+  scroll-margin-top: 80px; /* match your navbar's height */
+}
 body {
   font-family: var(--font-hanken);
   background-color: var(--color-main);

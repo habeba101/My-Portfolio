@@ -175,7 +175,7 @@ function Contact() {
             <button
               type="submit"
               disabled={status === "sending"}
-              className="btn bg-Primary rounded-3xl mt-4 hover:bg-Secondary w-full sm:w-auto disabled:opacity-60"
+              className="btn bg-Primary border-0 rounded-3xl mt-4 hover:bg-Secondary w-full sm:w-auto disabled:opacity-60"
             >
               {status === "sending" ? "Sending…" : "Send Message"}
             </button>
