@@ -29,7 +29,7 @@ function FeaturedWork() {
             </p>
             <a
               href="https://ajer-indol.vercel.app/"
-              className="btn  text-Primary-1 bg-Primary rounded-3xl  shadow-none border-0"
+              className="btn  text-Primary-1 bg-Primary rounded-3xl  shadow-none border-0 hover:bg-Secondary hover:text-Secondary-1"
             >
               Live
             </a>
@@ -53,7 +53,7 @@ function FeaturedWork() {
             </p>
             <a
               href="https://github.com/habeba101/InsightPulse-Blog-React"
-              className="btn text-Primary-1 bg-Primary rounded-3xl  shadow-none border-0"
+              className="btn text-Primary-1 bg-Primary rounded-3xl  shadow-none border-0  hover:bg-Secondary hover:text-Secondary-1"
             >
               GitHub
             </a>
@@ -77,7 +77,7 @@ function FeaturedWork() {
           </p>
           <a
             href="https://github.com/habeba101/Social-Agent-Gen-AI"
-            className="btn text-Primary-1 bg-Primary rounded-3xl  shadow-none border-0"
+            className="btn text-Primary-1 bg-Primary rounded-3xl  shadow-none border-0  hover:bg-Secondary hover:text-Secondary-1"
           >
             GitHub
           </a>

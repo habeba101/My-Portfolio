@@ -59,9 +59,12 @@ export default function Navbar() {
             </ul>
           </div>
           <div className="navbar-end">
-            <button className="btn btn-sm sm:btn-md mx-1 sm:mx-2 rounded-4xl text-Primary-1 bg-Primary-2 border-none whitespace-nowrap">
+            <a
+              href="#contact"
+              className="btn btn-sm sm:btn-md mx-1 sm:mx-2 rounded-4xl text-Primary-1 bg-Primary-2 border-none whitespace-nowrap"
+            >
               Contact
-            </button>
+            </a>
           </div>
         </div>
 
